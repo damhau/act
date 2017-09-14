@@ -1,0 +1,5 @@
+source_site_id,city,router
+10.160.42.1,Baden,ch-cisrbd00-01
+10.160.20.1,Imola,it-cisrio00-01
+10.161.24.1,Mexico,mx-cisr0000-01
+10.160.100.1,Virtual,ch-cisrxx00-01
